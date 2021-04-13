@@ -1,10 +1,10 @@
 # Add an Image
 
-You can write something like just text here
+I can write everything there
 
-This is a bullet list:
+this is a bullet list:
 
-- I 
+- I
 - can
 - do
 - bullet
